@@ -14,9 +14,13 @@ Switching a webpage from light to dark mode, by toggling a buttom.
 
 # What is the MVP?
 
+The minimum viable product is a webpage that renders in web browsers that will allow users to change the mode from dark to light and vice versa.
+
 # What are the sprinkles (Nice to haves)?
 
 # When will the project be complete?
+
+The project will be complete once all the MVP features have been implemented and the webpage has been styled.
 
 # Adapted from:
 
