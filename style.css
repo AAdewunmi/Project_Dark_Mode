@@ -14,6 +14,24 @@ html{
     height: 100vh;
 }
 
+.toggle{
+    width: 6rem;
+    height: 6rem;
+    background-color: #eee8e1;
+    position: absolute;
+    top: 7rem;
+    right: 7rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.toggle i{
+    font-size: 4rem;
+    color: #777;
+}
+
 .card-map{
    width: 35rem; 
 }
