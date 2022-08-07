@@ -112,6 +112,11 @@ html{
 }
 
 .red-circle{
-    background-color: red;
+    background-color: #eb001b;
 }
 
+.orange-circle{
+    background-color: #ff5f00;
+    margin-left: -2rem;
+    opacity: 0.7;
+}
