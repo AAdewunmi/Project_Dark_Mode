@@ -40,7 +40,7 @@ html{
     top: 1rem;
     left: 50%;
     transform: translateX(-50%);
-    opacity: 0.2;
+    opacity: 0.5;
 }
 
 .card-chip{
@@ -64,4 +64,11 @@ html{
     flex-direction: column;
     justify-content: space-around;
     color: #777;
+    z-index: 10;
+}
+
+.card-type{
+    font-size: 2.5rem;
+    letter-spacing: 1rem;
+    font-weight: bold;
 }
