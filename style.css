@@ -104,3 +104,10 @@ html{
     background-color: red;
     border-radius: 50%;
 }
+
+.card-right{
+    display: flex;
+    align-items: flex-end;
+    padding: 0 0 2rem 2rem;
+    z-index: 10;
+}
