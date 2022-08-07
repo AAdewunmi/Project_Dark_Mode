@@ -4,7 +4,9 @@ Dark Mode Project
 
 # What is the project?
 
-Switching a webpage from light to dark mode, by toggling a buttom.
+(a) Place a credit card in the middle of a webpage.
+
+(b) Switch a webpage from light to dark mode, by toggling a buttom.
 
 # Tech Stack 
 
