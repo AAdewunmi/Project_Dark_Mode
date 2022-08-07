@@ -37,6 +37,10 @@ html{
 .card-map{
    width: 35rem; 
    position: absolute;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.2;
 }
 
 .card-chip{
@@ -46,7 +50,18 @@ html{
 .card{
     width: 48rem;
     height: 25rem;
-    background-color: #ccc;
     border-radius: 2rem;
     position: relative;
+    display: flex;
+    box-shadow: 1rem 1rem 3rem rgba(0,0,0,0.4);
+}
+
+.card-left{
+    width: 70%;
+    height: 100%;
+    padding: 1rem 0 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: #777;
 }
