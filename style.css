@@ -36,6 +36,7 @@ html{
 
 .card-map{
    width: 35rem; 
+   position: absolute;
 }
 
 .card-chip{
@@ -47,4 +48,5 @@ html{
     height: 25rem;
     background-color: #ccc;
     border-radius: 2rem;
+    position: relative;
 }
