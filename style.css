@@ -89,3 +89,18 @@ html{
     font-weight: 600;
     letter-spacing: 0.1rem;
 }
+
+.card-holder{
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+}
+
+.red-circle,
+.orange-circle{
+    width: 6rem;
+    height: 6rem;
+    background-color: red;
+    border-radius: 50%;
+}
