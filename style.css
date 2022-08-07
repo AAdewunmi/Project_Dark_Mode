@@ -42,3 +42,9 @@ html{
     width: 6rem;
 }
 
+.card{
+    width: 48rem;
+    height: 25rem;
+    background-color: #ccc;
+    border-radius: 2rem;
+}
