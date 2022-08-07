@@ -101,7 +101,6 @@ html{
 .orange-circle{
     width: 6rem;
     height: 6rem;
-    background-color: red;
     border-radius: 50%;
 }
 
@@ -111,3 +110,8 @@ html{
     padding: 0 0 2rem 2rem;
     z-index: 10;
 }
+
+.red-circle{
+    background-color: red;
+}
+
