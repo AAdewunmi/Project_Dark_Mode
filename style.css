@@ -132,3 +132,7 @@ html{
 .container.dark .card-left{
     color: #ccc;
 }
+
+.container.dark .toggle{
+    background-color: #464646;
+}
