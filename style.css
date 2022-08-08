@@ -136,3 +136,7 @@ html{
 .container.dark .toggle{
     background-color: #464646;
 }
+
+.container.dark .toggle i{
+    color: #ddd;
+}
