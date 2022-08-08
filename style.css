@@ -124,3 +124,7 @@ html{
 .container.dark{
     background-color: #262626;
 }
+
+.container.dark .card{
+    color: #353533;
+}
