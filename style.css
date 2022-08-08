@@ -128,3 +128,7 @@ html{
 .container.dark .card{
     color: #353533;
 }
+
+.container.dark .card-left{
+    color: #ccc;
+}
