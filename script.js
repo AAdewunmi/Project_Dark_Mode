@@ -1,4 +1,5 @@
 /*jslint node: true */
+/* jshint expr: true */ 
 "use strict";
 
 const container = document.querySelector(".container");
