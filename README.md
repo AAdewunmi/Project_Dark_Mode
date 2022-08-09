@@ -1,28 +1,46 @@
-# Project Title:
+# Dark Mode Project
 
-Dark Mode Project
+## 1. Project Description: 
 
-# What is the project?
+A web page containing a credit card and a toggle button.
 
-(a) Place a credit card in the middle of a webpage.
+By toggling a button on the web page which is rendered in a web browser, users can change the mode from dark to light and vice versa.
 
-(b) Switch a webpage from light to dark mode, by toggling a buttom.
 
-# Tech Stack 
+## 2. Tech Stack: 
 
 - HTML
 - CSS
 - Javascript
 
-# What is the MVP?
+## 3. Installing:
 
-The minimum viable product is a webpage that renders in web browsers that will allow users to change the mode from dark to light and vice versa.
+1. Clone the repo
 
-# What are the sprinkles (Nice to haves)?
+```
+https://github.com/AAdewunmi/Project_Dark_Mode.git
+```
 
-# When will the project be complete?
+2. Open Project Folder
 
-The project will be complete once all the MVP features have been implemented and the webpage has been styled.
+3. Explore
+
+4. Open index.html in Visual Studio Code, using Live Server.
+
+5. Click on toggle button to experience a transition between light and dark mode.
+
+Enjoy :)
+
+## 4. Screenshots:
+
+- Light Mode
+
+![Image description](images/bright.png)
+
+
+- Dark Mode
+
+![Image description](images/dark.png)
 
 # Adapted from:
 
